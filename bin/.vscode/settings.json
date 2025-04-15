@@ -1,0 +1,8 @@
+{
+  "java.project.sourcePaths": ["."],
+  "java.project.outputPath": "bin",
+  "java.project.referencedLibraries": [
+    "C:/Program Files/Java/javafx-sdk-21.0.6/lib/*"
+  ],
+  "java.debug.settings.vmArgs": "--module-path \"C:/Program Files/Java/javafx-sdk-21.0.6/lib\" --add-modules javafx.controls,javafx.fxml"
+}
